@@ -40,7 +40,13 @@ With a keen eye for detail and strong organizational skills, I help teams delive
 
 ## 📂 Portfolio & Resources
 🔗 [View my portfolio repository](https://github.com/yourusername/yourusername.github.io)  
-📄 [Download my resume](https://github.com/yourusername/yourusername.github.io/blob/main/resume.pdf)  
+📄 [Download my resume](https://github.com/yourusername/yourrepo/blob/main/resume.pdf)  
+[!Resume](httpss://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://github.com/yourusername/yourrepo/blob/main/resume.pdf)
+### 📂 My Resume
+
+![Resume](resume.pdf)
+[Download Resume](https://yourusername.github.io/resume.pdf)
+
 
 ---
 
